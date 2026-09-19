@@ -26,3 +26,8 @@ Test results:
 - mAP@0.5:0.95: 0.263
 
 The helmet class performed best. The head class performed weakly because it was underrepresented.
+## Complete Project Package
+
+The complete project package, including the YOLO dataset, training outputs, evaluation results, test predictions, and full submission files, is available in the Google Drive folder:
+
+[Open Google Drive Project Folder](https://drive.google.com/drive/folders/1cZzOlLsU_AOmuWZEcUkVJ3Z_muUkuSoW?usp=drive_link )
